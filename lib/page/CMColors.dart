@@ -1,0 +1,42 @@
+import 'dart:ui';
+
+class CMColors {
+  static const primary_300 = const Color(0xffff4086);
+  static const primary_500 = const Color(0xffe62270);
+  static const primary_700 = const Color(0xffc80f63);
+  static const bg_dark_100 = const Color(0xff2a2546);
+  static const bg_dark_300 = const Color(0xff221d3b);
+  static const bg_dark_700 = const Color(0xff0f0a26);
+  static const bg_light_300 = const Color(0xfffefefe);
+  static const bg_light_500 = const Color(0xfffafafc);
+  static const bg_light_700 = const Color(0xfff3f2f7);
+  static const fg_onlight = const Color(0xff26252e);
+  static const fg_onlight_30pa = const Color(0x4d26252e);
+  static const blue_300 = const Color(0xff55c9ff);
+  static const blue_500 = const Color(0xff34afff);
+  static const purple_300 = const Color(0xff8e54df);
+  static const purple_500 = const Color(0xff7240b8);
+  static const purple_700 = const Color(0xff6232a6);
+  static const secondary_300 = const Color(0xffffb129);
+  static const secondary_500 = const Color(0xffff9121);
+  static const secondary_700 = const Color(0xfff2760a);
+  static const fg_ondark_6pa = const Color(0x0ff2ebff);
+  static const fg_ondark_10pa = const Color(0x1af2ebff);
+  static const fg_ondark_60 = const Color(0x99f2ebff);
+  static const fg_ondark_20pa = const Color(0x33f2ebff);
+  static const fg_ondark_40pa = const Color(0x66f2ebff);
+  static const fg_ondark_80pa = const Color(0xccf2ebff);
+  static const fg_ondark = const Color(0xfff2ebff);
+  static const fg_onlight_80pa = const Color(0xcc26252e);
+  static const bg_dark_500 = const Color(0xff191433);
+  static const fg_ondark_60pa = const Color(0x99f7f5fc);
+  static const black_40pa = const Color(0x66000000);
+  static const white = const Color(0xffffffff);
+  static const grad_purple_start = const Color(0xff3d3deb);
+  static const grad_purple_end = const Color(0xff7c23d5);
+  static const pale_lavender_40 = const Color(0x66f2ebff);
+  static const purpleish_blue = const Color(0xff7743ef);
+  static const barbie_pink = const Color(0xffff4086);
+  static const green_300 = const Color(0xff29c978);
+  static const fg_ondark2 = const Color(0xfff7f5fc);
+}
